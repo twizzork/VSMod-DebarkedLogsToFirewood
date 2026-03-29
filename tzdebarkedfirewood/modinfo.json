@@ -1,0 +1,16 @@
+{
+    "type": "content",
+    "name": "Debarked Logs to Firewood",
+    "version": "1.1.0",
+    "description": "Allows player to chop 1 debarked log into 4 firewood.",
+    "modid": "tzdebarkedfirewood",
+    "authors": [
+        "twizzork"
+    ],
+    "side": "Universal",
+    "requiredOnClient": true,
+    "requiredOnServer": true,
+    "dependencies": {
+        "game": "*"
+    }
+}
