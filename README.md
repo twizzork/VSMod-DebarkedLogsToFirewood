@@ -1,4 +1,4 @@
-# Twizzork's Debarked Logs to Firewood
+# twizzork's Debarked Logs to Firewood
 
 This is a small recipe mod for Vintage Story that allows the user to chop up 1 debarked log into 4 firewood.
 
