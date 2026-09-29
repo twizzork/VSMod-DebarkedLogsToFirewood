@@ -1,3 +1,6 @@
+v2.0.0
+changed the way the mod works depending on the age of the log in question. ranging from 4 firewood for fresh, 2 firewood for aged/veryaged, and 2/1 sticks for rotten/veryrotten
+
 v1.1.0
 remove version requirement. only break condition would be if the current system of content-type mods changed significantly
 

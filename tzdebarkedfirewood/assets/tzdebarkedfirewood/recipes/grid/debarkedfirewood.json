@@ -1,22 +1,112 @@
-{
-    "ingredientPattern": "A,D",
-    "width": 1,
-    "height": 2,
-    "ingredients": {
-        "A": {
-            "type": "item",
-            "code": "game:axe-*",
-            "isTool": true,
-            "toolDurabilityCost": 1
+[
+    {
+        "ingredientPattern": "A,D",
+        "width": 1,
+        "height": 2,
+        "ingredients": {
+            "A": {
+                "type": "item",
+                "code": "game:axe-*",
+                "isTool": true,
+                "toolDurabilityCost": 1
+            },
+            "D": {
+                "type": "block",
+                "code": "game:debarkedlog-veryrotten-*"
+            }
         },
-        "D": {
-            "type": "block",
-            "code": "game:debarkedlog-*"
+        "output": {
+            "type": "item",
+            "code": "game:stick",
+            "quantity": 1
         }
     },
-    "output": {
-        "type": "item",
-        "code": "game:firewood",
-        "quantity": 4
+    {
+        "ingredientPattern": "A,D",
+        "width": 1,
+        "height": 2,
+        "ingredients": {
+            "A": {
+                "type": "item",
+                "code": "game:axe-*",
+                "isTool": true,
+                "toolDurabilityCost": 1
+            },
+            "D": {
+                "type": "block",
+                "code": "game:debarkedlog-rotten-*"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "game:stick",
+            "quantity": 2
+        }
+    },
+    {
+        "ingredientPattern": "A,D",
+        "width": 1,
+        "height": 2,
+        "ingredients": {
+            "A": {
+                "type": "item",
+                "code": "game:axe-*",
+                "isTool": true,
+                "toolDurabilityCost": 1
+            },
+            "D": {
+                "type": "block",
+                "code": "game:debarkedlog-veryaged-*"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "game:firewood",
+            "quantity": 2
+        }
+    },
+    {
+        "ingredientPattern": "A,D",
+        "width": 1,
+        "height": 2,
+        "ingredients": {
+            "A": {
+                "type": "item",
+                "code": "game:axe-*",
+                "isTool": true,
+                "toolDurabilityCost": 1
+            },
+            "D": {
+                "type": "block",
+                "code": "game:debarkedlog-aged-*"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "game:firewood",
+            "quantity": 2
+        }
+    },
+    {
+        "ingredientPattern": "A,D",
+        "width": 1,
+        "height": 2,
+        "ingredients": {
+            "A": {
+                "type": "item",
+                "code": "game:axe-*",
+                "isTool": true,
+                "toolDurabilityCost": 1
+            },
+            "D": {
+                "type": "block",
+                "code": "game:debarkedlog-*"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "game:firewood",
+            "quantity": 4
+        }
     }
-}
+]

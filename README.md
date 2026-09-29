@@ -1,6 +1,6 @@
 # twizzork's Debarked Logs to Firewood
 
-This is a small recipe mod for Vintage Story that allows the user to chop up 1 debarked log into 4 firewood.
+This is a small recipe mod for Vintage Story that allows the player to chop up debarked logs into an amount of firewood (or sticks), dictated by the age of the log. 4 firewood for a fresh log, 2 for aged/veryaged. Rotten gives 2 sticks, and veryrotten gives 1 stick.
 
 ## Install
 
